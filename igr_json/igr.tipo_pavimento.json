@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "6547bd1a81df7e027f563194"
+  },
+  "registo": "new Date()",
+  "pavimento": "berma",
+  "_idBerma": {
+    "$oid": "654682f79319799296de0f98"
+  },
+  "pavimentada": "true-false",
+  "pedra": [
+    "paralelepípedos",
+    "calçada portuguesa",
+    "empedrado"
+  ],
+  "revestimento_superficial": [
+    "simples",
+    "duplo"
+  ],
+  "betao_betuminoso": [
+    "quente",
+    "frio"
+  ],
+  "betao_cimento_LAS": "true-false",
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6547be4781df7e027f563195"
+  },
+  "registo": "new Date()",
+  "pavimento": "faixa de rodagem",
+  "_idFaixaRodagem": {
+    "$oid": "654682f79319799296de0f97"
+  },
+  "terra_batida": "true-false",
+  "pedra": [
+    "paralelepípedos",
+    "calçada portuguesa",
+    "empedrado"
+  ],
+  "revestimento_superficial": [
+    "simples",
+    "duplo"
+  ],
+  "betao_betuminoso": [
+    "quente",
+    "frio"
+  ],
+  "betao_cimento_LAS": "true-false",
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "via": [
+    "v1",
+    "v2",
+    "v3",
+    "v4",
+    "v5",
+    "v6"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+}]

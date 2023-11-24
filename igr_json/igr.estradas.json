@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "654534245ad64ed553f18a39"
+  },
+  "registo": "newDate()",
+  "numero": "001",
+  "codigo": "EM-AL-01",
+  "toponimo": "",
+  "pontos_extremos_e_interiores": "",
+  "extensao": "0.000",
+  "tutela": "Municipal-Nacional",
+  "freguesia": "",
+  "coordenadas": [
+    {
+      "inicio": {
+        "lat": "00.00000000",
+        "long": "-00.00000000",
+        "alt": "00"
+      },
+      "fim": {
+        "lat": "00.00000000",
+        "long": "-00.00000000",
+        "alt": "00"
+      }
+    }
+  ]
+}]

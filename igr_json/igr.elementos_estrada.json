@@ -1,0 +1,326 @@
+[{
+  "_id": {
+    "$oid": "65453c695ad64ed553f18a3c"
+  },
+  "registo": "new Date()",
+  "elemento": "passagem hidráulica",
+  "material": [
+    "pedra",
+    "metal",
+    "betãO",
+    "polipropileno"
+  ],
+  "forma": [
+    "abobadada",
+    "quadrada",
+    "retangular",
+    "circular"
+  ],
+  "largura": "0.00",
+  "altura": "0.00",
+  "diametro": "0.00",
+  "septos": {
+    "quant": 0,
+    "altura": "0.00",
+    "largura": "0.00"
+  },
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65453d515ad64ed553f18a3d"
+  },
+  "registo": "new Date()",
+  "elemento": "intersecao",
+  "de_nivel": [
+    "cruzamento",
+    "entroncamento",
+    "rotunda",
+    "acesso"
+  ],
+  "desnivelada": "true/false",
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65453dec5ad64ed553f18a3e"
+  },
+  "registo": "new Date()",
+  "elemento": "singularidade",
+  "singularidade": [
+    "linha de água à superfície",
+    "obra de arte na via - PI",
+    "obra de arte sobre a via - PS",
+    "lomba de redução de velocidade",
+    "passagem hidráulica",
+    "túnel"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "654540095ad64ed553f18a3f"
+  },
+  "registo": "new Date()",
+  "elemento": "muro",
+  "natureza": [
+    "pedra argamassada",
+    "pedra seca",
+    "gabiões",
+    "ancorados",
+    "betão de cimento"
+  ],
+  "altura": "0.00",
+  "espessura": "0.00",
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6545ad305ad64ed553f18a40"
+  },
+  "registo": "new Date()",
+  "elemento": "talude",
+  "natureza": [
+    "rocha",
+    "solo",
+    "misto"
+  ],
+  "altura": "0.00",
+  "inclinacao": 0,
+  "tipo": [
+    "escavação",
+    "aterro",
+    "misto"
+  ],
+  "banquetas": 0,
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6545b2c15ad64ed553f18a41"
+  },
+  "registo": "new Date()",
+  "elemento": "banqueta",
+  "talude": {
+    "_id": {
+      "$oid": "6545ad305ad64ed553f18a40"
+    },
+    "banqueta": [
+      "B1",
+      "B2",
+      "B3",
+      "B4"
+    ]
+  },
+  "distancia_ao_pe_de_talude": "00.0",
+  "comprimento_banqueta": "000.0",
+  "largura_banqueta": "00.0",
+  "material": [
+    "pedra",
+    "metal",
+    "betão",
+    "polipropileno"
+  ],
+  "drenagem_em_crista": [
+    "V",
+    "U",
+    "meia-cana"
+  ],
+  "comprimento_da_drenagem_em_crista": "000.0",
+  "largura_da_drenagem_em_crista": "00.0",
+  "profundidade": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6545b4995ad64ed553f18a43"
+  },
+  "registo": "new Date()",
+  "elemento": "curva vertical",
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "raio_vertical": "",
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6545b4d75ad64ed553f18a44"
+  },
+  "registo": "new Date()",
+  "elemento": "curva em planta",
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "raio_em_planta": "",
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+}]

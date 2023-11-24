@@ -1,0 +1,340 @@
+[{
+  "_id": {
+    "$oid": "65467ee75ad64ed553f18a4e"
+  },
+  "registo": "new Date()",
+  "equipamento_segurança": "guardas de segurança",
+  "natureza": [
+    "flexíveis",
+    "rígidas"
+  ],
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65467ee75ad64ed553f18a4f"
+  },
+  "registo": "new Date()",
+  "equipamento_segurança": "sinalização horizontal",
+  "sinal_horizontal": [
+    "eixo",
+    "eixo e guia"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65467ee75ad64ed553f18a50"
+  },
+  "registo": "new Date()",
+  "equipamento_segurança": "marcadores",
+  "sinal_horizontal": "true-false",
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65467ee75ad64ed553f18a51"
+  },
+  "registo": "new Date()",
+  "equipamento_segurança": "delineadores",
+  "delineadores": "true-false",
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65467ee75ad64ed553f18a52"
+  },
+  "registo": "new Date()",
+  "equipamento_segurança": "sinalização vertical",
+  "sinal_vertical": [
+    "de código",
+    "de orientação"
+  ],
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65468ce69319799296de0f9b"
+  },
+  "registo": "new Date()",
+  "equipamento_segurança": "guardas de segurança",
+  "natureza": [
+    "flexíveis",
+    "rígidas"
+  ],
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65468ce69319799296de0f9c"
+  },
+  "registo": "new Date()",
+  "equipamento_segurança": "sinalização horizontal",
+  "sinal_horizontal": [
+    "eixo",
+    "eixo e guia",
+    "passadeira"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65468ce69319799296de0f9d"
+  },
+  "registo": "new Date()",
+  "equipamento_segurança": "marcadores",
+  "marcadores": "true-false",
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65468ce69319799296de0f9e"
+  },
+  "registo": "new Date()",
+  "equipamento_segurança": "delineadores",
+  "delineadores": "true-false",
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65468ce69319799296de0f9f"
+  },
+  "registo": "new Date()",
+  "equipamento_segurança": "sinalização vertical",
+  "sinal_vertical": [
+    "de código",
+    "de orientação"
+  ],
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "coordenada": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+}]

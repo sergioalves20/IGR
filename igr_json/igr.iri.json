@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6550eab3ed9697c7e5fb40bd"
+  },
+  "trecho": "000",
+  "data": "new Date()",
+  "via": [
+    "v1",
+    "v2",
+    "v3",
+    "v4",
+    "v5",
+    "v6"
+  ],
+  "iri": "0.0",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+}]

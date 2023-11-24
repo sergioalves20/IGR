@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6550e6a2ed9697c7e5fb40bc"
+  },
+  "trecho": "000",
+  "posto": "000",
+  "maquina": "",
+  "data_inicio": "new Date()",
+  "data_fim": "new Date()",
+  "veiculos_cat1": "000",
+  "veiculos_cat2": "000",
+  "tmda": "0",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+}]

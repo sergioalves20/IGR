@@ -1,0 +1,158 @@
+[{
+  "_id": {
+    "$oid": "654682f79319799296de0f97"
+  },
+  "registo": "new Date()",
+  "perfil_transversal": "faixa_rodagem",
+  "vias": [
+    "1x1",
+    "2x2",
+    "3x3",
+    "1x2",
+    "2x1",
+    "2x3",
+    "3x2"
+  ],
+  "largura": {
+    "v1": "0.00",
+    "v2": "0.00",
+    "v3": "0.00",
+    "v4": "0.00",
+    "v5": "0.00",
+    "v6": "0.00"
+  },
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "654682f79319799296de0f98"
+  },
+  "registo": "new Date()",
+  "perfil_transversal": "berma",
+  "largura": "0.00",
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "654682f79319799296de0f99"
+  },
+  "registo": "new Date()",
+  "perfil_transversal": "drenagem_superficial",
+  "tipo": [
+    "U",
+    "V",
+    "meia-cana"
+  ],
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "material": [
+    "cimento",
+    "pedra",
+    "não revestido"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "654682f79319799296de0f9a"
+  },
+  "registo": "new Date()",
+  "perfil_transversal": "separador_central",
+  "natureza": [
+    "com placa central",
+    "com guardas flexíveis",
+    "com guardas rígidas",
+    "com marcas rodoviárias"
+  ],
+  "inicio": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "fim": {
+    "pk": "0.000",
+    "lat": "00.00000000",
+    "long": "-00.00000000",
+    "alt": "00"
+  },
+  "extensao": "0.00",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+}]

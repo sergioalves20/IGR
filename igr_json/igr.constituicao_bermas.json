@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "6547b21d9319799296de0fa7"
+  },
+  "registo": "new Date()",
+  "constituicao": "fundação",
+  "_idBerma": {
+    "$oid": "654682f79319799296de0f98"
+  },
+  "pkInicio": "0.000",
+  "pkFim": "0.000",
+  "extensao": "0.00",
+  "cbr": "0.000",
+  "natureza_geológica": [
+    "solo",
+    "rocha"
+  ],
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6547b21d9319799296de0fa8"
+  },
+  "registo": "new Date()",
+  "constituicao": "sub-base",
+  "_idBerma": {
+    "$oid": "654682f79319799296de0f98"
+  },
+  "pkInicio": "0.000",
+  "pkFim": "0.000",
+  "extensao": "0.00",
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "natureza_geológica": [
+    "basalto",
+    "calcário",
+    "aluvião",
+    "britado"
+  ],
+  "granulometria_d-D": "0-0",
+  "espessura": "0.0",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6547b21d9319799296de0fa9"
+  },
+  "registo": "new Date()",
+  "constituicao": "base",
+  "_idBerma": {
+    "$oid": "654682f79319799296de0f98"
+  },
+  "pkInicio": "0.000",
+  "pkFim": "0.000",
+  "extensao": "0.00",
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "natureza_geológica": [
+    "basalto",
+    "calcário",
+    "aluvião",
+    "britado"
+  ],
+  "granulometria_d-D": "0-0",
+  "espessura": "0.0",
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6547b21d9319799296de0faa"
+  },
+  "registo": "new Date()",
+  "constituicao": "BB de ligação",
+  "_idBerma": {
+    "$oid": "654682f79319799296de0f98"
+  },
+  "pkInicio": "0.000",
+  "pkFim": "0.000",
+  "extensao": "0.00",
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "granulometria_d-D": "0-0",
+  "espessura": "0.0",
+  "betume": [
+    "B35-50",
+    "B50-70",
+    ">B70"
+  ],
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6547b21d9319799296de0fab"
+  },
+  "registo": "new Date()",
+  "constituicao": "BB de desgaste",
+  "_idBerma": {
+    "$oid": "654682f79319799296de0f98"
+  },
+  "pkInicio": "0.000",
+  "pkFim": "0.000",
+  "extensao": "0.00",
+  "sentido": [
+    "crescente",
+    "decrescente"
+  ],
+  "granulometria_d-D": "0-0",
+  "espessura": "0.0",
+  "betume": [
+    "B35-50",
+    "B50-70",
+    ">B70"
+  ],
+  "estrada": {
+    "numero": "001",
+    "_id": {
+      "$oid": "654421a85ad64ed553f18a34"
+    },
+    "codigo": "EM-AL-01",
+    "toponimo": "",
+    "freguesia": ""
+  }
+}]

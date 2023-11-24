@@ -1,0 +1,1304 @@
+[{
+  "_id": {
+    "$oid": "654fb607ed9697c7e5fb40aa"
+  },
+  "pavimento": [
+    {
+      "_item": 1,
+      "patologia": "Betão Betuminoso_Ninho_N1",
+      "descricao": "Profundidade máxima da cavidade < 1 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 2,
+      "patologia": "Betão Betuminoso_Ninho_N2",
+      "descricao": "1 cm < Profundidade máxima da cavidade < 4 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 3,
+      "patologia": "Betão Betuminoso_Ninho_N3",
+      "descricao": "Profundidade máxima da cavidade > 4 cm ou várias de qualquer profundidade na mesma secção transversal",
+      "nivel": "n3"
+    },
+    {
+      "_item": 4,
+      "patologia": "Betão Betuminoso_Pelada_N1",
+      "descricao": "Largura < 20 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 5,
+      "patologia": "Betão Betuminoso_Pelada_N2",
+      "descricao": "20 cm < Largura < 100 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 6,
+      "patologia": "Betão Betuminoso_Pelada_N3",
+      "descricao": "Largura > 100 cm ou várias peladas de qualquer largura na mesma secção transversal",
+      "nivel": "n3"
+    },
+    {
+      "_item": 7,
+      "patologia": "Betão Betuminoso_Exsudação de betume_N1",
+      "descricao": "Largura < 20 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 8,
+      "patologia": "Betão Betuminoso_Exsudação de betume_N2",
+      "descricao": "20 cm < Largura < 100 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 9,
+      "patologia": "Betão Betuminoso_Exsudação de betume_N3",
+      "descricao": "Largura > 100 cm ou várias anomalias de qualquer largura na mesma secção transversal",
+      "nivel": "n3"
+    },
+    {
+      "_item": 10,
+      "patologia": "Betão Betuminoso_Polimento do agregado_N1",
+      "descricao": "Largura < 20 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 11,
+      "patologia": "Betão Betuminoso_Polimento do agregado_N2",
+      "descricao": "20 cm < Largura < 100 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 12,
+      "patologia": "Betão Betuminoso_Polimento do agregado_N3",
+      "descricao": "Largura > 100 cm ou várias de qualquer largura na mesma secção transversal",
+      "nivel": "n3"
+    },
+    {
+      "_item": 13,
+      "patologia": "Betão Betuminoso_Assentamento localizado_N1",
+      "descricao": "Largura < 20 cm e/ou profundidade máxima < 2 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 14,
+      "patologia": "Betão Betuminoso_Assentamento localizado_N2",
+      "descricao": "20 cm < Largura < 100 cm e/ou 2 cm < profundidade máxima < 10 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 15,
+      "patologia": "Betão Betuminoso_Assentamento localizado_N3",
+      "descricao": "Largura > 100 cm ou várias anomalias de qualquer largura na mesma secção transversal e/ou profundidade máxima > 10 cm",
+      "nivel": "n3"
+    },
+    {
+      "_item": 16,
+      "patologia": "Betão Betuminoso_Desagregação superficial_N1",
+      "descricao": "Anomalia isolada ou fração grossa do agregado solta isolada",
+      "nivel": "n1"
+    },
+    {
+      "_item": 17,
+      "patologia": "Betão Betuminoso_Desagregação superficial_N2",
+      "descricao": "Anomalias afastadas de cerca de 50 cm em secção transversal",
+      "nivel": "n2"
+    },
+    {
+      "_item": 18,
+      "patologia": "Betão Betuminoso_Desagregação superficial_N3",
+      "descricao": "Anomalias com afastamento inferior a 50 cm na mesma secção transversa",
+      "nivel": "n3"
+    },
+    {
+      "_item": 19,
+      "patologia": "Betão Betuminoso_Rodeira_N1",
+      "descricao": "Profundidade máxima da rodeira < 1 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 20,
+      "patologia": "Betão Betuminoso_Rodeira_N2",
+      "descricao": "1 cm < Profundidade máxima da rodeira < 3 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 21,
+      "patologia": "Betão Betuminoso_Rodeira_N3",
+      "descricao": "Profundidade máxima da rodeira > 3 cm",
+      "nivel": "n3"
+    },
+    {
+      "_item": 22,
+      "patologia": "Betão Betuminoso_Fendilhamento_N1",
+      "descricao": "Fenda isolada com abertura insignificante (inferior a 2 mm)",
+      "nivel": "n1"
+    },
+    {
+      "_item": 23,
+      "patologia": "Betão Betuminoso_Fendilhamento_N2",
+      "descricao": "Fenda abertura significativa (2 mm < abertura < 4 mm) ou ramificada ou com eventual perda de agregados",
+      "nivel": "n2"
+    },
+    {
+      "_item": 24,
+      "patologia": "Betão Betuminoso_Fendilhamento_N3",
+      "descricao": "Fenda de abertura forte (abertura > 4 mm) ou em grelha (pele de crocodilo) com perda de material e/ou ascensão de finos (lamas à superfície)",
+      "nivel": "n3"
+    },
+    {
+      "_item": 25,
+      "patologia": "Pedra_Desagregação e/ou pedra solta_N1",
+      "descricao": "Largura < 20 cm ou pedra solta isolada",
+      "nivel": "n1"
+    },
+    {
+      "_item": 26,
+      "patologia": "Pedra_Desagregação e/ou pedra solta_N2",
+      "descricao": "20 cm < Largura < 100 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 27,
+      "patologia": "Pedra_Desagregação e/ou pedra solta_N3",
+      "descricao": "Largura > 100 cm ou várias pedras soltas na mesma secção transversal",
+      "nivel": "n3"
+    },
+    {
+      "_item": 28,
+      "patologia": "Pedra_Covas (falta de pedras)_N1",
+      "descricao": "Largura < 20 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 29,
+      "patologia": "Pedra_Covas (falta de pedras)_N2",
+      "descricao": "20 cm < Largura < 100 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 30,
+      "patologia": "Pedra_Covas (falta de pedras)_N3",
+      "descricao": "Largura > 100 cm ou várias anomalias de qualquer largura na mesma secção transversal",
+      "nivel": "n3"
+    },
+    {
+      "_item": 31,
+      "patologia": "Pedra_Polimento da pedra_N1",
+      "descricao": "Largura < 20 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 32,
+      "patologia": "Pedra_Polimento da pedra_N2",
+      "descricao": "20 cm < Largura < 100 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 33,
+      "patologia": "Pedra_Polimento da pedra_N3",
+      "descricao": "Largura > 100 cm ou várias anomalias de qualquer largura na mesma secção transversal",
+      "nivel": "n3"
+    },
+    {
+      "_item": 34,
+      "patologia": "Pedra_Degradação da pedra_partida ou irregularidades_N1",
+      "descricao": "Largura < 20 cm (pedra partida ou irregular)",
+      "nivel": "n1"
+    },
+    {
+      "_item": 35,
+      "patologia": "Pedra_Degradação da pedra_partida ou irregularidades_N2",
+      "descricao": "20 cm < Largura < 100 cm (pedra partida ou irregular)",
+      "nivel": "n2"
+    },
+    {
+      "_item": 36,
+      "patologia": "Pedra_Degradação da pedra_partida ou irregularidades_N3",
+      "descricao": "Largura > 100 cm ou várias anomalias de qualquer largura na mesma secção transversal (pedra partida ou irregular)",
+      "nivel": "n3"
+    },
+    {
+      "_item": 37,
+      "patologia": "Pedra_Rotação da pedra com vértice à vista_dente de tubarão_N1",
+      "descricao": "Largura < 20 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 38,
+      "patologia": "Pedra_Rotação da pedra com vértice à vista_dente de tubarão_N2",
+      "descricao": "20 cm < Largura < 100 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 39,
+      "patologia": "Pedra_Rotação da pedra com vértice à vista_dente de tubarão_N3",
+      "descricao": "Largura > 100 cm ou várias anomalias de qualquer largura na mesma secção transversal",
+      "nivel": "n3"
+    },
+    {
+      "_item": 40,
+      "patologia": "Pedra_Rotação da pedra com aresta à vista_barbatana de tubarão_N1",
+      "descricao": "Largura < 20 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 41,
+      "patologia": "Pedra_Rotação da pedra com aresta à vista_barbatana de tubarão_N2",
+      "descricao": "20 cm < Largura < 100 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 42,
+      "patologia": "Pedra_Rotação da pedra com aresta à vista_barbatana de tubarão_N3",
+      "descricao": "Largura > 100 cm ou várias anomalias de qualquer largura na mesma secção transversal",
+      "nivel": "n3"
+    },
+    {
+      "_item": 43,
+      "patologia": "Pedra_Assentamento localizado_N1",
+      "descricao": "Largura < 20 cm e/ou profundidade máxima < 2 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 44,
+      "patologia": "Pedra_Assentamento localizado_N2",
+      "descricao": "20 cm < Largura < 100 cm e/ou 2 cm < profundidade máxima < 10 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 45,
+      "patologia": "Pedra_Assentamento localizado_N3",
+      "descricao": "Largura > 100 cm ou várias anomalias de qualquer largura na mesma secção transversal e/ou profundidade máxima > 10 cm",
+      "nivel": "n3"
+    },
+    {
+      "_item": 46,
+      "patologia": "Pedra_Rodeira_N1",
+      "descricao": "Profundidade máxima da rodeira < 1 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 47,
+      "patologia": "Pedra_Rodeira_N2",
+      "descricao": "1 cm < profundidade máxima da rodeira < 3 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 48,
+      "patologia": "Pedra_Rodeira_N3",
+      "descricao": "Profundidade máxima da rodeira > 3 cm",
+      "nivel": "n3"
+    },
+    {
+      "_item": 113,
+      "patologia": "Terra batida_Cova_N1",
+      "descricao": "Profundidade máxima da cavidade < 5 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 114,
+      "patologia": "Terra batida_Cova_N2",
+      "descricao": "5 cm < Profundidade máxima da cavidade < 10 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 115,
+      "patologia": "Terra batida_Cova_N3",
+      "descricao": "Profundidade máxima da cavidade > 10 cm ou várias covas de qualquer profundidade na mesma secção transversal",
+      "nivel": "n3"
+    },
+    {
+      "_item": 116,
+      "patologia": "Terra batida_Assentamento localizado_N1",
+      "descricao": "Largura < 20 cm e/ou profundidade máxima < 5 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 117,
+      "patologia": "Terra batida_Assentamento localizado_N2",
+      "descricao": "20 cm < Largura < 100 cm e/ou 5 cm < profundidade máxima > 10 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 118,
+      "patologia": "Terra batida_Assentamento localizado_N3",
+      "descricao": "Largura > 100 cm ou várias de qualquer largura na mesma secção transversal e/ou profundidade máxima > 10 cm",
+      "nivel": "n3"
+    },
+    {
+      "_item": 134,
+      "patologia": "Terra batida_Rodeira_N1",
+      "descricao": "Profundidade máxima da rodeira < 5 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 135,
+      "patologia": "Terra batida_Rodeira_N2",
+      "descricao": "5 cm < Profundidade máxima da rodeira < 10 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 136,
+      "patologia": "Terra batida_Rodeira_N3",
+      "descricao": "Profundidade máxima da rodeira > 10 cm",
+      "nivel": "n3"
+    },
+    {
+      "_item": 154,
+      "patologia": "Betão Betuminoso_Desmoronamento do pavimento_N2",
+      "descricao": "20cm < Largura < 150 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 155,
+      "patologia": "Betão Betuminoso_Desmoronamento do pavimento_N3",
+      "descricao": "Largura > 150 cm",
+      "nivel": "n3"
+    },
+    {
+      "_item": 156,
+      "patologia": "Pedra_Desmoronamento do pavimento_N2",
+      "descricao": "20 cm < Largura < 150 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 157,
+      "patologia": "Pedra_Desmoronamento do pavimento_N3",
+      "descricao": "Largura > 150 cm",
+      "nivel": "n3"
+    },
+    {
+      "_item": 164,
+      "patologia": "Terra batida_Ondulações_N1",
+      "descricao": "Altura da onda < 5 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 165,
+      "patologia": "Terra batida_Ondulações_N2",
+      "descricao": "5 cm < Altura da onda < 10 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 166,
+      "patologia": "Terra batida_Ondulações_N3",
+      "descricao": "Altura da onda > 10 cm",
+      "nivel": "n3"
+    },
+    {
+      "_item": 167,
+      "patologia": "Betão Betuminoso_Desmoronamento do pavimento_N1",
+      "descricao": "Largura < 50 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 168,
+      "patologia": "Pedra_Desmoronamento do pavimento_N1",
+      "descricao": "Largura < 50 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 178,
+      "patologia": "Revestimento Superficial_Assentamento localizado_N1",
+      "descricao": "Largura < 20 cm e/ou profundidade máxima < 2 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 179,
+      "patologia": "Revestimento Superficial_Assentamento localizado_N2",
+      "descricao": "20 cm < Largura < 100 cm e/ou 2 cm < profundidade máxima < 10 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 180,
+      "patologia": "Revestimento Superficial_Assentamento localizado_N3",
+      "descricao": "Largura > 100 cm ou várias anomalias de qualquer largura na mesma secção transversal e/ou profundidade máxima > 10 cm",
+      "nivel": "n3"
+    },
+    {
+      "_item": 181,
+      "patologia": "Revestimento Superficial_Arrancamento de agregados_N1",
+      "descricao": "Anomalia isolada ou fração grossa do agregado solta isolada",
+      "nivel": "n1"
+    },
+    {
+      "_item": 182,
+      "patologia": "Revestimento Superficial_Arrancamento de agregados_N2",
+      "descricao": "Anomalias afastadas de cerca de 50 cm em secção transversal",
+      "nivel": "n2"
+    },
+    {
+      "_item": 183,
+      "patologia": "Revestimento Superficial_Arrancamento de agregados_N3",
+      "descricao": "Anomalias com afastamento inferior a 50 cm na mesma secção transversal",
+      "nivel": "n3"
+    },
+    {
+      "_item": 184,
+      "patologia": "Revestimento Superficial_Desmoronamento do pavimento_N1",
+      "descricao": "Largura < 50 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 185,
+      "patologia": "Revestimento Superficial_Desmoronamento do pavimento_N2",
+      "descricao": "20cm < Largura < 150 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 186,
+      "patologia": "Revestimento Superficial_Desmoronamento do pavimento_N3",
+      "descricao": "Largura > 150 cm",
+      "nivel": "n3"
+    },
+    {
+      "_item": 187,
+      "patologia": "Revestimento Superficial_Exsudação de betume_N1",
+      "descricao": "Largura < 20 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 188,
+      "patologia": "Revestimento Superficial_Exsudação de betume_N2",
+      "descricao": "20 cm < Largura < 100 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 189,
+      "patologia": "Revestimento Superficial_Exsudação de betume_N3",
+      "descricao": "Largura > 100 cm ou várias anomalias de qualquer largura na mesma secção transversal",
+      "nivel": "n3"
+    },
+    {
+      "_item": 190,
+      "patologia": "Revestimento Superficial_Subida de fendas_N1",
+      "descricao": "Fenda isolada com abertura insignificante (inferior a 2 mm)",
+      "nivel": "n1"
+    },
+    {
+      "_item": 191,
+      "patologia": "Revestimento Superficial_Subida de fendas_N2",
+      "descricao": "Fenda abertura significativa (2 mm < abertura < 4 mm) ou ramificada ou com eventual perda de agregados",
+      "nivel": "n2"
+    },
+    {
+      "_item": 192,
+      "patologia": "Revestimento Superficial_Subida de fendas_N3",
+      "descricao": "Fenda de abertura forte (abertura > 4 mm) ou em grelha (pele de crocodilo) com perda de material e/ou ascensão de finos (lamas à superfície)",
+      "nivel": "n3"
+    },
+    {
+      "_item": 193,
+      "patologia": "Revestimento Superficial_Ranhurado longitudinal_N1",
+      "descricao": "Traços longitudinais visíveis sem desprendimento de agregados",
+      "nivel": "n1"
+    },
+    {
+      "_item": 194,
+      "patologia": "Revestimento Superficial_Ranhurado longitudinal_N2",
+      "descricao": "Traços longitudinais visíveis com desprendimento parcial de agregados",
+      "nivel": "n2"
+    },
+    {
+      "_item": 195,
+      "patologia": "Revestimento Superficial_Ranhurado longitudinal_N3",
+      "descricao": "Traços longitudinais visíveis com desprendimento total de agregados",
+      "nivel": "n3"
+    },
+    {
+      "_item": 196,
+      "patologia": "Revestimento Superficial_Pelada_N1",
+      "descricao": "Largura < 20 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 197,
+      "patologia": "Revestimento Superficial_Pelada_N2",
+      "descricao": "20 cm < Largura < 100 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 198,
+      "patologia": "Revestimento Superficial_Pelada_N3",
+      "descricao": "Largura > 100 cm ou várias peladas de qualquer largura na mesma secção transversal",
+      "nivel": "n3"
+    },
+    {
+      "_item": 199,
+      "patologia": "Revestimento Superficial_Rodeira_N1",
+      "descricao": "Profundidade máxima da rodeira < 1 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 200,
+      "patologia": "Revestimento Superficial_Rodeira_N2",
+      "descricao": "1 cm < Profundidade máxima da rodeira < 3 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 201,
+      "patologia": "Revestimento Superficial_Rodeira_N3",
+      "descricao": "Profundidade máxima da rodeira > 3 cm",
+      "nivel": "n3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654fb689ed9697c7e5fb40ab"
+  },
+  "talude": [
+    {
+      "_item": 49,
+      "patologia": "Solos ou misto_Deslizamento de detritos ou terras_N1",
+      "descricao": "Anomalia com volume < 30 m3 ou sem invasão da faixa de rodagem (incluindo berma)",
+      "nivel": "n1"
+    },
+    {
+      "_item": 50,
+      "patologia": "Solos ou misto_Deslizamento de detritos ou terras_N2",
+      "descricao": "Com invasão da faixa de rodagem ou 30 m3 < volume da anomalia < 60 m3",
+      "nivel": "n2"
+    },
+    {
+      "_item": 51,
+      "patologia": "Solos ou misto_Deslizamento de detritos ou terras_N3",
+      "descricao": "Anomalia com volume > 60 m3 com ou sem invasão da faixa de rodagem",
+      "nivel": "n3"
+    },
+    {
+      "_item": 52,
+      "patologia": "Solos ou misto_Erodabilidade_N1",
+      "descricao": "Anomalia com profundidade de rasgo < 5 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 53,
+      "patologia": "Solos ou misto_Erodabilidade_N2",
+      "descricao": "5 cm < profundidade de rasgo da anomalia < 10 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 54,
+      "patologia": "Solos ou misto_Erodabilidade_N3",
+      "descricao": "Anomalia com profundidade de rasgo > 10 cm",
+      "nivel": "n3"
+    },
+    {
+      "_item": 55,
+      "patologia": "Solos ou misto_Revestimento_N1",
+      "descricao": "Falta de revestimento < 25% em altura",
+      "nivel": "n1"
+    },
+    {
+      "_item": 56,
+      "patologia": "Solos ou misto_Revestimento_N2",
+      "descricao": "25% < Falta de revestimento < 50% em altura",
+      "nivel": "n2"
+    },
+    {
+      "_item": 57,
+      "patologia": "Solos ou misto_Revestimento_N3",
+      "descricao": "Falta de revestimento > 50% em altura",
+      "nivel": "n3"
+    },
+    {
+      "_item": 119,
+      "patologia": "Rocha_Deslizamento de detritos ou terras_N1",
+      "descricao": "Anomalia com volume < 30 m3 ou sem invasão da faixa de rodagem (incluindo berma)",
+      "nivel": "n1"
+    },
+    {
+      "_item": 120,
+      "patologia": "Rocha_Deslizamento de detritos ou terras_N2",
+      "descricao": "Com invasão da faixa de rodagem ou 30 m3 < volume da anomalia < 60 m3",
+      "nivel": "n2"
+    },
+    {
+      "_item": 121,
+      "patologia": "Rocha_Deslizamento de detritos ou terras_N3",
+      "descricao": "Anomalia com volume > 60 m3 com ou sem invasão da faixa de rodagem",
+      "nivel": "n3"
+    },
+    {
+      "_item": 122,
+      "patologia": "Rocha_Integridade_N1",
+      "descricao": "Anomalia com profundidade de fenda < 5 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 123,
+      "patologia": "Rocha_Integridade_N2",
+      "descricao": "5 cm < profundidade de fenda da anomalia < 10 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 124,
+      "patologia": "Rocha_Integridade_N3",
+      "descricao": "Anomalia com profundidade de fenda > 10 cm",
+      "nivel": "n3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654fb6d8ed9697c7e5fb40ac"
+  },
+  "caleiras_e_valetas_de_pé_de_talude": [
+    {
+      "_item": 58,
+      "patologia": "Pé de talude_Acumulação de detritos_N1",
+      "descricao": "Volume de detritos < 1/3 da altura",
+      "nivel": "n1"
+    },
+    {
+      "_item": 59,
+      "patologia": "Pé de talude_Acumulação de detritos_N2",
+      "descricao": "1/3 da altura < Volume de detritos < 2/3 da altura",
+      "nivel": "n2"
+    },
+    {
+      "_item": 60,
+      "patologia": "Pé de talude_Acumulação de detritos_N3",
+      "descricao": "Volume de detritos > 2/3 da altura",
+      "nivel": "n3"
+    },
+    {
+      "_item": 61,
+      "patologia": "Pé de talude_Integridade_N1",
+      "descricao": "Com fendas",
+      "nivel": "n1"
+    },
+    {
+      "_item": 62,
+      "patologia": "Pé de talude_Integridade_N2",
+      "descricao": "Fraturada",
+      "nivel": "n2"
+    },
+    {
+      "_item": 63,
+      "patologia": "Pé de talude_Integridade_N3",
+      "descricao": "Inexistente ou deslocada",
+      "nivel": "n3"
+    },
+    {
+      "_item": 64,
+      "patologia": "Pé de talude_Elemento de junta_N1",
+      "descricao": "Falta de união < 25%",
+      "nivel": "n1"
+    },
+    {
+      "_item": 65,
+      "patologia": "Pé de talude_Elemento de junta_N2",
+      "descricao": "25% < Falta de união < 50%",
+      "nivel": "n2"
+    },
+    {
+      "_item": 66,
+      "patologia": "Pé de talude_Elemento de junta_N3",
+      "descricao": "Falta de elemento",
+      "nivel": "n3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654fe745ed9697c7e5fb40ad"
+  },
+  "passagens_hidraulicas": [
+    {
+      "_item": 70,
+      "patologia": "Pedra ou Metal_Assoreamento/entupimento_N1",
+      "descricao": "Acumulação de materiais na proximidade ou volume da anomalia no interior < 1/4 da altura original",
+      "nivel": "n1"
+    },
+    {
+      "_item": 71,
+      "patologia": "Pedra ou Metal_Assoreamento/entupimento_N2",
+      "descricao": "1/4 da altura original < Volume da anomalia no interior < 1/2 da altura original",
+      "nivel": "n2"
+    },
+    {
+      "_item": 72,
+      "patologia": "Pedra ou Metal_Assoreamento/entupimento_N3",
+      "descricao": "Volume da anomalia no interior > 1/2 da altura original",
+      "nivel": "n3"
+    },
+    {
+      "_item": 73,
+      "patologia": "Pedra ou Metal_Integridade_N1",
+      "descricao": "Com fendas isoladas ou pedras partidas",
+      "nivel": "n1"
+    },
+    {
+      "_item": 74,
+      "patologia": "Pedra ou Metal_Integridade_N2",
+      "descricao": "Fendas ramificadas ou falta de pedras",
+      "nivel": "n2"
+    },
+    {
+      "_item": 75,
+      "patologia": "Pedra ou Metal_Integridade_N3",
+      "descricao": "Fraturados",
+      "nivel": "n3"
+    },
+    {
+      "_item": 128,
+      "patologia": "Betão_Assoreamento/entupimento_N1",
+      "descricao": "Acumulação de materiais na proximidade ou volume da anomalia no interior < 1/4 da altura original",
+      "nivel": "n1"
+    },
+    {
+      "_item": 129,
+      "patologia": "Betão_Assoreamento/entupimento_N2",
+      "descricao": "1/4 da altura original < Volume da anomalia no interior < 1/2 da altura original",
+      "nivel": "n2"
+    },
+    {
+      "_item": 130,
+      "patologia": "Betão_Assoreamento/entupimento_N3",
+      "descricao": "Volume da anomalia no interior > 1/2 da altura original",
+      "nivel": "n3"
+    },
+    {
+      "_item": 131,
+      "patologia": "Betão_Erodabilidade do Cimento_N1",
+      "descricao": "Com fendas isoladas",
+      "nivel": "n1"
+    },
+    {
+      "_item": 132,
+      "patologia": "Betão_Erodabilidade do Cimento_N2",
+      "descricao": "Fendas ramificadas",
+      "nivel": "n2"
+    },
+    {
+      "_item": 133,
+      "patologia": "Betão_Erodabilidade do Cimento_N3",
+      "descricao": "Fraturada",
+      "nivel": "n3"
+    },
+    {
+      "_item": 158,
+      "patologia": "Betão_Erosão da fundação_N1",
+      "descricao": "Descalçamento das bocas dos aquedutos numa profundidade < 10 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 159,
+      "patologia": "Betão_Erosão da fundação_N2",
+      "descricao": "10 cm < Descalçamento das bocas dos aquedutos numa profundidade < 30 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 160,
+      "patologia": "Betão_Erosão da fundação_N3",
+      "descricao": "Descalçamento das bocas dos aquedutos numa profundidade > 30 cm",
+      "nivel": "n3"
+    },
+    {
+      "_item": 161,
+      "patologia": "Pedra ou Metal_Erosão da fundação_N1",
+      "descricao": "Descalçamento das bocas dos aquedutos numa profundidade < 10 cm",
+      "nivel": "n1"
+    },
+    {
+      "_item": 162,
+      "patologia": "Pedra ou Metal_Erosão da fundação_N2",
+      "descricao": "10 cm < Descalçamento das bocas dos aquedutos numa profundidade < 30 cm",
+      "nivel": "n2"
+    },
+    {
+      "_item": 163,
+      "patologia": "Pedra ou Metal_Erosão da fundação_N3",
+      "descricao": "Descalçamento das bocas dos aquedutos numa profundidade > 30 cm",
+      "nivel": "n3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "654ff369ed9697c7e5fb40ae"
+  },
+  "muros": [
+    {
+      "_item": 94,
+      "patologia": "Pedra seca ou argamassada_Integridade_N1",
+      "descricao": "Com fendas isoladas",
+      "nivel": "n1"
+    },
+    {
+      "_item": 95,
+      "patologia": "Pedra seca ou argamassada_Integridade_N2",
+      "descricao": "Com deformações ou fendas ramificadas",
+      "nivel": "n2"
+    },
+    {
+      "_item": 96,
+      "patologia": "Pedra seca ou argamassada_Integridade_N3",
+      "descricao": "Destruídos",
+      "nivel": "n3"
+    },
+    {
+      "_item": 97,
+      "patologia": "Gabions_Integridade_N1",
+      "descricao": "Com rompimento de malha",
+      "nivel": "n1"
+    },
+    {
+      "_item": 98,
+      "patologia": "Gabions_Integridade_N2",
+      "descricao": "Com deformações",
+      "nivel": "n2"
+    },
+    {
+      "_item": 99,
+      "patologia": "Gabions_Integridade_N3",
+      "descricao": "Em risco de instabilidade",
+      "nivel": "n3"
+    },
+    {
+      "_item": 100,
+      "patologia": "Ancorados_Integridade_N1",
+      "descricao": "Com vestígios de água",
+      "nivel": "n1"
+    },
+    {
+      "_item": 101,
+      "patologia": "Ancorados_Integridade_N2",
+      "descricao": "Com deformações ou bainhas deterioradas",
+      "nivel": "n2"
+    },
+    {
+      "_item": 102,
+      "patologia": "Ancorados_Integridade_N3",
+      "descricao": "Em risco de instabilidade",
+      "nivel": "n3"
+    },
+    {
+      "_item": 151,
+      "patologia": "Betão de cimento_Integridade_N1",
+      "descricao": "Com fendas isoladas",
+      "nivel": "n1"
+    },
+    {
+      "_item": 152,
+      "patologia": "Betão de cimento_Integridade_N2",
+      "descricao": "Com deformações ou fendas ramificadas",
+      "nivel": "n2"
+    },
+    {
+      "_item": 153,
+      "patologia": "Betão de cimento_Integridade_N3",
+      "descricao": "Fraturados",
+      "nivel": "n3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65506dc2ed9697c7e5fb40af"
+  },
+  "obras_de_arte": [
+    {
+      "_item": 103,
+      "patologia": "Aparelhos de apoio_Integridade_N1",
+      "descricao": "Estado razoável",
+      "nivel": "n1"
+    },
+    {
+      "_item": 104,
+      "patologia": "Aparelhos de apoio_Integridade_N2",
+      "descricao": "Estado medíocre",
+      "nivel": "n2"
+    },
+    {
+      "_item": 105,
+      "patologia": "Juntas_Integridade_N1",
+      "descricao": "Estado razoável",
+      "nivel": "n1"
+    },
+    {
+      "_item": 106,
+      "patologia": "Juntas_Integridade_N2",
+      "descricao": "Estado medíocre",
+      "nivel": "n2"
+    },
+    {
+      "_item": 107,
+      "patologia": "Vigas de bordadura_Integridade_N1",
+      "descricao": "Estado razoável",
+      "nivel": "n1"
+    },
+    {
+      "_item": 108,
+      "patologia": "Vigas de bordadura_Integridade_N2",
+      "descricao": "Estado medíocre",
+      "nivel": "n2"
+    },
+    {
+      "_item": 109,
+      "patologia": "Tabuleiro_Integridade_N1",
+      "descricao": "Estado razoável",
+      "nivel": "n1"
+    },
+    {
+      "_item": 110,
+      "patologia": "Pilares_Integridade_N1",
+      "descricao": "Estado razoável",
+      "nivel": "n1"
+    },
+    {
+      "_item": 111,
+      "patologia": "Pilares_Integridade_N2",
+      "descricao": "Estado medíocre",
+      "nivel": "n2"
+    },
+    {
+      "_item": 112,
+      "patologia": "Pilares_Integridade_N3",
+      "descricao": "Mau estado",
+      "nivel": "n3"
+    },
+    {
+      "_item": 146,
+      "patologia": "Aparelhos de apoio_Integridade_N3",
+      "descricao": "Mau estado",
+      "nivel": "n3"
+    },
+    {
+      "_item": 147,
+      "patologia": "Juntas_Integridade_N3",
+      "descricao": "Mau estado",
+      "nivel": "n3"
+    },
+    {
+      "_item": 148,
+      "patologia": "Vigas de bordadura_Integridade_N3",
+      "descricao": "Mau estado",
+      "nivel": "n3"
+    },
+    {
+      "_item": 149,
+      "patologia": "Tabuleiro_Integridade_N2",
+      "descricao": "Estado medíocre",
+      "nivel": "n2"
+    },
+    {
+      "_item": 150,
+      "patologia": "Tabuleiro_Integridade_N3",
+      "descricao": "Mau estado",
+      "nivel": "n3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "655070f4ed9697c7e5fb40b0"
+  },
+  "guardas_de_seguranca": [
+    {
+      "_item": 79,
+      "patologia": "Metálicas ou rígidas_Integridade_N1",
+      "descricao": "Desalinhadas",
+      "nivel": "n1"
+    },
+    {
+      "_item": 80,
+      "patologia": "Metálicas ou rígidas_Integridade_N2",
+      "descricao": "Com impactos",
+      "nivel": "n2"
+    },
+    {
+      "_item": 81,
+      "patologia": "Metálicas ou rígidas_Integridade_N3",
+      "descricao": "Derrubadas",
+      "nivel": "n3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "655071fced9697c7e5fb40b1"
+  },
+  "pavimentos_em_betao_linhas_de_agua_superficie": [
+    {
+      "_item": 76,
+      "patologia": "Erodabilidade_N1",
+      "descricao": "Parcialmente erodida",
+      "nivel": "n1"
+    },
+    {
+      "_item": 77,
+      "patologia": "Erodabilidade_N2",
+      "descricao": "Muito erodida e/ou malha de aço à vista",
+      "nivel": "n2"
+    },
+    {
+      "_item": 78,
+      "patologia": "Erodabilidade_N3",
+      "descricao": "Destruída e/ou malha de aço corroída",
+      "nivel": "n3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6550b1c4ed9697c7e5fb40b3"
+  },
+  "sinalizacao_horizontal": [
+    {
+      "_item": 67,
+      "patologia": "Desgaste_N1",
+      "descricao": "Desgaste < 25%",
+      "nivel": "n1"
+    },
+    {
+      "_item": 68,
+      "patologia": "Desgaste_N2",
+      "descricao": "25% < Desgaste < 50%",
+      "nivel": "n2"
+    },
+    {
+      "_item": 69,
+      "patologia": "Desgaste_N3",
+      "descricao": "Desgaste > 50%",
+      "nivel": "n3"
+    },
+    {
+      "_item": 125,
+      "patologia": "Visibilidade_N1",
+      "descricao": "ouca visibilidade noturna à luz dos faróis",
+      "nivel": "n1"
+    },
+    {
+      "_item": 126,
+      "patologia": "Visibilidade_N2",
+      "descricao": "Sem visibilidade noturna à luz dos faróis",
+      "nivel": "n2"
+    },
+    {
+      "_item": 127,
+      "patologia": "Visibilidade_N3",
+      "descricao": "Sem visibilidade diurna",
+      "nivel": "n3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6550b29aed9697c7e5fb40b4"
+  },
+  "sinalizacao_vertical": [
+    {
+      "_item": 88,
+      "patologia": "Integridade dos suportes e corpos_N1",
+      "descricao": "Enferrujados",
+      "nivel": "n1"
+    },
+    {
+      "_item": 89,
+      "patologia": "Integridade dos suportes e corpos_N2",
+      "descricao": "Torcidos",
+      "nivel": "n2"
+    },
+    {
+      "_item": 90,
+      "patologia": "Integridade dos suportes e corpos_N3",
+      "descricao": "Quebrados",
+      "nivel": "n3"
+    },
+    {
+      "_item": 91,
+      "patologia": "Refletorização (superfície)_N1",
+      "descricao": "Estado razoável",
+      "nivel": "n1"
+    },
+    {
+      "_item": 92,
+      "patologia": "Refletorização (superfície)_N2",
+      "descricao": "Mau estado",
+      "nivel": "n2"
+    },
+    {
+      "_item": 93,
+      "patologia": "Refletorização (superfície)_N3",
+      "descricao": "Inexistente",
+      "nivel": "n3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6550b4dfed9697c7e5fb40b5"
+  },
+  "caleiras_e_valetas_de_crista": [
+    {
+      "_item": 137,
+      "patologia": "Crista_Acumulação de detritos_N1",
+      "descricao": "Volume de detritos < 1/3 da altura",
+      "nivel": "n1"
+    },
+    {
+      "_item": 138,
+      "patologia": "Crista_Acumulação de detritos_N2",
+      "descricao": "1/3 da altura < Volume de detritos < 2/3 da altura",
+      "nivel": "n2"
+    },
+    {
+      "_item": 139,
+      "patologia": "Crista_Acumulação de detritos_N3",
+      "descricao": "Volume de detritos > 2/3 da altura",
+      "nivel": "n3"
+    },
+    {
+      "_item": 140,
+      "patologia": "Crista_Integridade_N1",
+      "descricao": "Com fendas",
+      "nivel": "n1"
+    },
+    {
+      "_item": 141,
+      "patologia": "Crista_Integridade_N2",
+      "descricao": "Fraturada",
+      "nivel": "n2"
+    },
+    {
+      "_item": 142,
+      "patologia": "Crista_Integridade_N3",
+      "descricao": "Inexistente ou deslocada",
+      "nivel": "n3"
+    },
+    {
+      "_item": 143,
+      "patologia": "Crista_Elemento de junta_N1",
+      "descricao": "Falta de união < 25%",
+      "nivel": "n3"
+    },
+    {
+      "_item": 144,
+      "patologia": "Crista_Elemento de junta_N2",
+      "descricao": "25% < Falta de união < 50%",
+      "nivel": "n3"
+    },
+    {
+      "_item": 145,
+      "patologia": "Crista_Elemento de junta_N3",
+      "descricao": "Falta de elemento",
+      "nivel": "n3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6550b8c2ed9697c7e5fb40b6"
+  },
+  "delineadores": [
+    {
+      "_item": 82,
+      "patologia": "Integridade_N1",
+      "descricao": "Estado razoável",
+      "nivel": "n1"
+    },
+    {
+      "_item": 83,
+      "patologia": "Integridade_N2",
+      "descricao": "Mau estado",
+      "nivel": "n2"
+    },
+    {
+      "_item": 84,
+      "patologia": "Integridade_N3",
+      "descricao": "Derrubados",
+      "nivel": "n3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6550b932ed9697c7e5fb40b7"
+  },
+  "marcadores": [
+    {
+      "_item": 85,
+      "patologia": "Integridade_N1",
+      "descricao": "Sequência razoável",
+      "nivel": "n1"
+    },
+    {
+      "_item": 86,
+      "patologia": "Integridade_N2",
+      "descricao": "Grandes interrupções na sequência",
+      "nivel": "n2"
+    },
+    {
+      "_item": 87,
+      "patologia": "Integridade_N3",
+      "descricao": "Inoperacionais",
+      "nivel": "n3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6550bb8bed9697c7e5fb40b8"
+  },
+  "caleiras_e_valetas_de_plataforma": [
+    {
+      "_item": 169,
+      "patologia": "Plataforma_Acumulação de detritos_N1",
+      "descricao": "Volume de detritos < 1/3 da altura",
+      "nivel": "n1"
+    },
+    {
+      "_item": 170,
+      "patologia": "Plataforma_Acumulação de detritos_N2",
+      "descricao": "1/3 da altura < Volume de detritos < 2/3 da altura",
+      "nivel": "n2"
+    },
+    {
+      "_item": 171,
+      "patologia": "lataforma_Acumulação de detritos_N3",
+      "descricao": "Volume de detritos > 2/3 da altura",
+      "nivel": "n3"
+    },
+    {
+      "_item": 172,
+      "patologia": "Plataforma_Elemento de junta_N1",
+      "descricao": "Falta de união < 25%",
+      "nivel": "n1"
+    },
+    {
+      "_item": 173,
+      "patologia": "Plataforma_Elemento de junta_N2",
+      "descricao": "25% < Falta de união < 50%",
+      "nivel": "n2"
+    },
+    {
+      "_item": 174,
+      "patologia": "Plataforma_Elemento de junta_N3",
+      "descricao": "Falta de elemento",
+      "nivel": "n3"
+    },
+    {
+      "_item": 175,
+      "patologia": "Plataforma_Integridade_N1",
+      "descricao": "Com fendas",
+      "nivel": "n1"
+    },
+    {
+      "_item": 176,
+      "patologia": "Plataforma_Integridade_N2",
+      "descricao": "Fraturada",
+      "nivel": "n2"
+    },
+    {
+      "_item": 177,
+      "patologia": "Plataforma_Integridade_N3",
+      "descricao": "Inexistente ou deslocada",
+      "nivel": "n3"
+    }
+  ]
+}]
