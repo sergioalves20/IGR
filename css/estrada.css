@@ -1,0 +1,214 @@
+
+/*------ HEADER ------------------------------------*/
+header#cabecalho{
+    border-bottom:1px #8B8989 solid;
+    height:30px;
+    text-align:left;
+    margin-top:30px;
+}
+header#cabecalho h1{
+    font-size:12pt;
+    font-family:times new roman;
+    color:#FFFF00;	
+    font-weight:normal;
+    margin-left:0px;
+    padding:0px;
+}
+
+/*----- MENU ------------------------------------------->*/
+
+nav#menu{
+    display:block;
+    font-size:8pt;
+}
+nav#menu ul{
+    list-style: none;
+    text-transform:uppercase;
+    position:absolute;
+    top: 10px;
+    left: 520px;				
+}
+nav#menu h1{
+    display: none;
+}
+nav#menu a{
+    color: white;
+    text-decoration:none;		
+}
+nav#menu a:hover{
+    color:#000000;	
+}	
+nav#menu li{
+    display: inline-block;
+    background-color:#2F4F4F;
+    color:red;
+    font-family:calibri;
+    font-size:10pt;
+    border-radius: 5px;
+    padding:5px;
+}
+nav#menu li:hover{
+    background-color:#E0EEEE;
+    transition-duration: 1s;
+}
+/* ---- BODY-------------------------------------------*/
+
+body{
+    width: 100%;
+    font-family:arial,sans-serif;
+    background-color:#BEBEBE;
+    color:#FFFFF0;	 
+}
+
+/*----- DIV(comandos) ------------------------------------*/	
+
+div#interface{
+    width:1000px;
+    background-color:#607B8B;
+    margin:10px auto 10px auto;
+    padding:10px;
+}
+.label_1{
+    font-size:9pt;
+    font-family:arial;
+    color:rgb(255,255,255);
+    font-weight:normal;
+    padding: 3px 3px 3px 3px;
+    float:left;
+    display:block;
+    width: 175px;
+    text-align:center;
+    height:18px;
+    margin:5px 10px 7px 10px;
+}
+.cmd{
+    font-size:10pt;
+    font-family:arial;
+    color:#1C1C1C;
+    background-color:#BEBEBE;
+    font-weight:normal;
+    padding: 3px 3px 3px 3px;
+    height:30px;
+    width:180px;
+    margin:1px 10px 0px 10px;
+    border-radius: 5px;
+}
+.cmd:hover{
+    background-color:#2F4F4F;
+    color:#ffffff;
+    font-weight:normal;
+}
+
+/*---- PÁGINA --------------------------------*/	
+
+section#corpo{
+    display:block;
+    width: 220px;
+    float:left;
+    border-right: 1px solid #8B8989;
+    padding-right:5px;
+    padding-bottom:10px;
+}
+aside#lateral{
+    display:block;
+    width: 750px;
+    float:right;
+    background-color:#CDCDB4;
+    margin:10px;
+}
+fieldset#estrada{
+    height:730px;
+    margin: 10px;
+    border:none;
+}
+footer#rodape{
+    clear:both;
+    border-top:1px solid #8B8989;
+    color:#FFE1FF;
+    font-family:calibri;
+    font-size:9pt;
+    text-align:center;
+    height:25px;
+}
+
+/*---- FORM ------------------------------------*/	
+
+input#c_id_estrada{
+    color:#FF0000;
+    font-size:11pt;
+    font-family:calibri;
+    text-align:center;
+    font-family:arial;
+    width:100px;
+    height:30px;
+    border:none;
+}
+input#c_cod_estrada{
+    background-color:#ADFF2F;
+    text-align:center;
+    font-size:11pt;
+    font-family:calibri;
+    width:100px;
+    height:30px;
+    border:none;
+}
+input#c_ext{
+    background-color:#FFFFF0;
+    width:100px;
+    height:25px;
+    border:none;
+    text-align:center;
+}
+input#c_nseq{
+    background-color:#FFFFF0;
+    width:100px;
+    height:25px;
+    border:none;
+    text-align:center;
+}	
+.estrd{
+    font-size:10pt;
+    color:#4F4F4F;
+    font-family:calibri;
+}
+.align{
+    height:25px;
+    background-color:#FFFFF0;
+    border:none;
+    width:400px;
+}
+.coord{
+    height:25px;
+    background-color:#FFFFF0;
+    border:none;
+    width:198px;
+    text-align:center;
+}
+label#long{
+    margin-left:60px;
+}
+label#lati{
+    margin-left:11px;
+}
+label#latf{
+    margin-left:19px;
+}
+label#pk{
+    font-weight:bold;
+}
+
+/*----- IFRAME --------------------------------->*/
+
+iframe#frame-spec{
+    width: 720px;
+    height: 500px;
+    border:solid;
+    overflow:hidden;
+    margin:10px;
+   
+}
+
+iframe#frame-spec::-webkit-scrollbar{
+    display:hidden;	
+}
+

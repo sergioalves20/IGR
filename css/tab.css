@@ -1,0 +1,67 @@
+/*
+    Created on : 2/out/2018, 7:10:46
+    Author     : SERGIO
+*/
+.tab{
+    border-color: white;
+    font-family:calibri;
+    font-size:11pt;
+    color:#585858;
+    font-weight:normal;
+    margin-top:5px; 
+}
+.tabela{
+    border-color: brown;
+}
+.tabela tr:nth-child(even) {
+    background-color: #CEF6CE;
+}
+.tabela tr:nth-child(odd){
+    background-color: white;
+}
+ 
+ .title{
+    background-color:white;
+    border-color: white;
+    font-family:calibri;
+    font-size:10pt;
+    color:brown;
+   /* text-align:center;*/
+    font-weight:normal;
+    margin-top:5px;
+ }
+h2{
+    font-family:Microsoft Sans Serif;
+    font-size:10pt;
+    color:brown;
+    text-align:center;
+    font-weight:normal;
+    margin-top:5px;
+}
+h1{
+    font-family:Microsoft Sans Serif;
+    font-size:10pt;
+    color:brown;
+    text-align:center;
+    font-weight:normal;
+    margin-top:20px;
+}
+form.tab{
+    background-color:#F7BE81;
+    width:250px;
+    height:25px;
+    margin:0 auto;
+    padding:10px;
+    border-radius:0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+   display: block;
+}
+a#voltar{
+   text-align: center;
+   margin: 0 auto;
+   display: block;
+   margin-bottom: 5px;
+   font-size:10pt; 
+   text-decoration: none;
+}

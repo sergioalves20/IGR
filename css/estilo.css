@@ -1,0 +1,333 @@
+/* 
+    Created on : Aug 24, 2017, 4:15:35 PM
+    Author     : SERGIO
+*/
+@charset 'utf-8';
+p{
+    margin: 10px;
+}
+body{
+    width: 100%;
+    background-color: #F5F5DC;
+    margin-top: 0;
+   
+}/*
+.tabela tr:nth-child(even) {/*Zebrar pares
+    background-color: #E6E6E6;
+}
+.tabela tr:nth-child(odd) {/*Zebrar impares
+    background-color: #FFF;
+}*/
+body h1.op{
+    font-size: 10pt;
+    text-align: center;
+    font-weight: normal;
+    font-family: verdana;
+    color:#0B0B61;
+
+}
+header{
+    height: 75px;
+    width: 100%;
+    background-color:#0B0B3B;
+    margin: 0 auto;
+    padding: 5px;
+    margin-top:0px;
+   /* background-image: url(../estrutura/img/angralogo.jpg);
+    background-repeat: no-repeat;
+    background-size:5%;
+    background-position: 10px; */  
+}
+ nav{
+    height: 40px;
+    width: 100%;
+    background-color: wheat;
+    padding: 10px;   
+}
+
+nav h1{
+    font-family: verdana;
+    font-size: 10pt;
+    color: brown;
+    text-align: center;
+    margin-top: 5px;  
+}
+nav h2{
+    font-size: 11pt;
+    font-weight: normal;
+    font-family: times new roman;
+    color:brown;
+}
+       
+.fotoadmin{
+ /*background-image: url(../estrutura/img/foto4.jpg);
+ background-size: 100%;
+ background-repeat: no-repeat;
+ height: 500px; */ 
+}
+.fotogest{
+   background-image: url(../estrutura/img/foto.JPG);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 500px;    
+}
+.fotolevant{
+  /*background-image: url(../estrutura/img/angra.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 500px; */
+}
+
+header h1{
+    font-size: 14pt;
+    font-family: times new roman;
+    font-weight: normal;
+    margin-bottom: 0px;
+    color:#FAAC58;
+    text-align: center;   
+}
+header h2{
+    font-size: 12pt;
+    font-family: times new roman;
+    font-weight: normal;
+    margin-bottom: 0px;
+    color:#BDBDBD;
+    text-align: center;   
+}
+
+
+main {
+    width: 100%;
+    background-color:#F5F5DC;
+    margin: 0 auto;
+    padding: 0px;
+
+}
+main h1{
+    font-family:Microsoft Sans Serif;
+    font-size:11pt;
+    color:brown;
+    font-weight:normal;
+    margin-top:20px;
+    text-align: center;
+}
+main h2{
+    font-family:Microsoft Sans Serif;
+    font-size:11pt;
+    color:brown;
+    font-weight:normal;
+    margin-top:10px;
+    text-align: left;
+}
+
+/*article{
+     height: 150px;
+    width: 80%;
+    background-color: white;
+    margin: 0 auto;
+    padding: 10px;
+}*/
+footer{
+    height: 40px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 1px;
+    text-align: center;  
+    color:#848484;
+    font-size: 9pt;
+    font-family: calibri;
+}
+/*MENU*/
+ul{
+    font-family:Microsoft Sans Serif;
+    font-size:10pt;
+    margin: 0px auto;
+    padding: 0;
+    list-style: none;   
+
+
+}
+ul li{
+    display: block;
+    position: relative;
+    float: left;     
+}
+.title{
+    width: 90px;
+}
+li ul{
+    display: none;
+    margin: 0px;    
+}
+ul li a{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color:#ffffff;
+    width: 170px;
+    border-top: 1px solid #ffffff;
+    padding: 10px;
+    background:#003333;
+    margin-left: 2px;
+    white-space: nowrap;  
+}
+
+ul li a.inicio{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color:#ffffff;
+    width: 120px;
+    border-top: 1px solid #ffffff;
+    padding: 10px ;    
+    background:#003333;
+    margin-left: 2px;
+    white-space: nowrap;     
+}
+ul li a.oper{
+    background-color: #0B0B61;
+    font-size: 10pt;
+}
+ul li a.oper1{
+    width: 120px;
+    background-color: #0B0B61;
+    font-size: 10pt; 
+}
+ul li a:hover{
+    background: #617F8A;
+}
+li:hover ul{
+    display: block;
+    position: absolute;
+}
+li:hover li{
+    float: none;
+    font-size: 10pt;
+}
+li:hover a {
+    background: black;
+}
+li:hover li a:hover{
+    background: #95A9B1;
+}
+/*------- FORM -----------------------------------------------------*/
+form{
+    background-color:#CDCDB4;
+    width:700px;
+    height:400px;
+    margin:0 auto;
+    padding:30px;
+    border-radius:10px;
+    margin-top: 5px;
+    
+}
+
+label{
+    font-family:Microsoft Sans Serif;
+    font-size:9pt;
+    color:#2F4F4F;
+    padding-top: 5px;
+}
+label#op{
+    font-family: verdana;
+    font-size: 12pt;
+    width: 300px;
+    display: block;
+    margin-top: 0px;
+    text-align: center;
+    color: brown;
+}
+.align{
+    text-align:center;
+    height:18px;	
+}
+input#cId_estrada{
+    color:red;
+}
+input#btalterar{
+    margin-left:340px;
+}
+input#cData{
+    text-align:center;
+    font-family:calibri;
+    font-size:10pt;
+    color:#7F7F7F;
+    margin-left:90px;
+}
+input#cHora{
+    text-align:center;
+    font-family:calibri;
+    font-size:10pt;
+    color:#7F7F7F;
+}
+.botao {
+    display:inline-block;
+    width:25px;
+    background: url("../estrutura/img/2.gif")center center no-repeat;
+    vertical-align:middle;
+}
+.botao1 {
+    display:inline-block;
+    width:29px;
+    height:24px;
+    background: url("../estrutura/img/3.gif")center center no-repeat;
+    vertical-align:middle;
+}
+.sentido{
+    height: 25px;
+}
+.alt{
+    height: 25px;
+}
+
+a#voltar{
+    margin-left: 10px;
+    font-family: calibri;
+    color:black; margin-bottom: 5px;
+    font-size:11pt;
+    text-decoration: none
+}
+/*-----------------------------------*/
+
+
+/*------- COMANDOS -------------------------------- */
+
+.cmd{
+    background-color:#848484;
+    border:none;
+    height:25px;
+    color:white;
+    font-family:calibri;
+    font-size:10pt;
+    border-radius: 5px;
+  
+}
+.cmd:hover{
+    background-color:#E0EEEE;
+    cursor:pointer;
+    color:#000000;
+    transition-duration: 1s;
+}																			
+.reg{
+    background-color:#00008B;
+    border:none;
+    height:30px;
+    color:white;
+    font-family:calibri;
+    font-size:10pt;
+    border-radius: 5px;
+}	
+.reg:hover{
+    background-color:#E0EEEE;
+    cursor:pointer;
+    color:#000000;
+    transition-duration: 1s;
+}
+.label_normal{width:85px;background-color:#000}
+.label_1{width:90px;float:left;display:block}
+.label_2{width:85px;float:left;background-color:#FF0000}
+/*.label_3{width:85px;display:block;background-color:#000}*/
+.label_4{
+    width:200px;      
+}
+

@@ -1,0 +1,108 @@
+
+/* 
+    Created on : Aug 6, 2017, 11:24:35 AM
+    Author     : SERGIO
+*/
+
+body{
+    width: 100%;
+    background-color:#F5F5DC;
+    color:black;
+    font-family: calibri;
+    font-size: 11pt;
+    font-weight: normal;
+}
+/*FORMULARIO*/
+
+form.tab{
+    background-color:#FAAC58;
+    width:250px;
+    height:30px;
+    margin:0 auto;
+    padding:10px;
+    border-radius:0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+  .cmd{
+    background-color:#2F4F4F;
+    border:none;
+    height:25px;
+    color:white;
+    font-family:calibri;
+    font-size:10pt;
+    border-radius: 5px;
+}
+.cmd:hover{
+    background-color:#E0EEEE;
+    cursor:pointer;
+    color:#000000;
+    transition-duration: 1s;
+}
+a#voltar{
+   text-align: center;
+   margin: 0 auto;
+   display: block;
+   margin-bottom: 5px;
+   font-size:10pt; 
+   text-decoration: none;
+}
+
+h1{
+    font-family:Microsoft Sans Serif;
+    font-size:11pt;
+    color:black;
+    text-align:center;
+    font-weight:normal;
+    margin-top:20px;
+}
+h2{
+    font-family:Microsoft Sans Serif;
+    font-size:10pt;
+    color:brown;
+    text-align:center;
+    font-weight:normal;
+    margin-top:5px;
+}
+h3{
+    font-family:Microsoft Sans Serif;
+    font-size:10pt;
+    color:#000000;
+    text-align:center;
+    font-weight:normal;
+    margin-top:0px;
+}
+.link{
+    color:blue;
+}
+
+/*--------- TABELA --------------*/
+input#cod_estrada{
+    height:20px;
+    width: 95px;
+    margin-left: 58px;
+    text-align: center;
+}
+
+label#op{
+    font-family: verdana;
+    font-size: 12pt;
+    width: 300px;
+    display: block;
+    margin-top: 0px;
+    text-align: center;
+    color: brown;
+}
+a#voltar{
+    margin-left: 10px;
+    font-family: calibri;
+    color:black; margin-bottom: 5px;
+    font-size:11pt;
+    text-decoration: none
+
+}
+.pf{border:none;background-color:white;color: #B22222;}     
+        .tabela tr:nth-child(even) {background-color: #E6E6E6;}
+        .tabela tr:nth-child(odd) { background-color: red;}
+        table#est{background-color: red;}
+        

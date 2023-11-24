@@ -1,0 +1,28 @@
+@charset 'utf-8';
+            form#login_admin{
+                background-color:#CDCDB4; 
+                width: 230px;
+                height: 160px;
+                padding-top: 20px;
+                margin-top: 130px;
+                margin-bottom: 100px;
+            }
+            input{
+                width: 200px;
+                height: 30px;              
+            }
+            input#entrar{
+                width: 205px;
+                margin-top: 20px;
+                height: 40px;
+                font-size: 11pt;
+                background-color: #708090;
+            }
+            input#usu_login{
+                padding: 3px;             
+            }
+            input#usu_senha{
+                padding: 3px;
+            }
+          
+      
