@@ -1,6 +1,6 @@
 IGR - INFORMAÇÃO E GESTÃO RODOVIÁRIA
 ------------------------------------
-Trata-se de uma aplicação desenvolvida em PHP com uma base de dados MySql.
+É uma aplicação desenvolvida em PHP com uma base de dados MySql.
 Evoluiu de uma aplicação inicialmente desenvolvida em Access e desenhada por uma equipa especializada em gestão e segurança rodoviária bem como estruturas de estradas.
 Pretende-se que a presente arquitetura e modelagem sirva de orientação para a implementeção de outras aplicações na área da gestão rodoviávia ou mesmo o aperfeiçoamento da presente aplicação.
 Logo que possível, serão efetuadas melhorias singificativas no código da presente aplicação.
